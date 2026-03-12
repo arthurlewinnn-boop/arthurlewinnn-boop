@@ -1,31 +1,8 @@
 {
-  "title": "a",
+  "title": "tbate",
   "description": "a",
   "artist": "a",
   "author": "a",
   "cover": "",
-  "chapters": {
-    "2": {
-      "title": "new",
-      "volume": "",
-      "last_updated": "1773326035",
-      "groups": {
-        "": [
-          "https://cdn.imgchest.com/files/72096865a2b7.jpg",
-          "https://cdn.imgchest.com/files/8f3e47828ebb.jpg"
-        ]
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "",
-      "last_updated": "1773328417",
-      "groups": {
-        "": [
-          "https://cdn.imgchest.com/files/72096865a2b7.jpg",
-          "https://cdn.imgchest.com/files/8f3e47828ebb.jpg"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
