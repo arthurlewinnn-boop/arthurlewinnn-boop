@@ -4,5 +4,16 @@
   "artist": "a",
   "author": "a",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "225": {
+      "title": "225",
+      "volume": "7",
+      "last_updated": "1773325373",
+      "groups": {
+        "..": [
+          "https://drive.google.com/file/d/1LPLtjhFtOW3sb6DCuyfLi5peqU5gM6cs/view?usp=sharing"
+        ]
+      }
+    }
+  }
 }
