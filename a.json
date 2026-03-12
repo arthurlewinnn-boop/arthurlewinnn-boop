@@ -5,12 +5,12 @@
   "author": "a",
   "cover": "",
   "chapters": {
-    "225": {
-      "title": "225",
+    "1": {
+      "title": "test",
       "volume": "7",
-      "last_updated": "1773325373",
+      "last_updated": "1773325904",
       "groups": {
-        "..": [
+        "test": [
           "https://imgur.com/JxxZSaw",
           "https://imgur.com/gODkyrL"
         ]
